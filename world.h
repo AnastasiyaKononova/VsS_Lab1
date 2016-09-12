@@ -1,0 +1,3 @@
+char* hello();
+char* goodbye();
+
